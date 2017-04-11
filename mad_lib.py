@@ -12,7 +12,7 @@ def main():
     while (play=='yes'):
           play_rapLib()
           play=input('Do you want to keep playing to improve your rap skills? Enter yes or no: ')
-    print('\nGood. Stay in school and finish 1002.')
+    print('\nGood. Stay in school.')
     
 def play_rapLib():
     rapSong = ('\nIt was all a dream, I used to read PROGRAMMING_LANGUAGE magazine\n'

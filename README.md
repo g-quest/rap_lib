@@ -4,7 +4,7 @@ Python rap lib program for the late Notorious B.I.G and his song "Juicy". Writte
 
 ##### Example output:
 
-`It was all a dream, I used to read PYTHON magazine
+It was all a dream, I used to read PYTHON magazine
 
 DIEGO and ERIN up in the limousine
 
@@ -42,4 +42,4 @@ Call the crib, same INSTAGRAM, same hood
 
 It's all good
 
-And if you don't know, now you know, CANADIAN`
+And if you don't know, now you know, CANADIAN

@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-COMS W1002
-Homework 3, Problem 4
-Gregory Cuesta
-10/31/2016
-
 Mad Lib for 'Big Poppa' by The Notorious B.I.G. (1994)
 G-Rated version
 """
